@@ -1,0 +1,10 @@
+.memotest-card {
+  display: inline-block;
+}
+.card-size {
+  width: 170px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 3px;
+  padding-right: 1.5rem;
+}

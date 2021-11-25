@@ -1,0 +1,30 @@
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.snk-logo {
+  height: 167px;
+}
+
+.moves {
+  display: flex;
+  justify-content: center;
+}
+
+.max-score {
+  width: 22%;
+}
+
+.round-score {
+  width: 5%;
+  font-size: 1.4em;
+  background: transparent;
+  border: none;
+  color: #fff;
+}
+
+.max-score, .attempts, .total-attempts {
+  font-size: 1.4em;
+  color: #fff;
+}
